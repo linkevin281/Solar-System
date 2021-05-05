@@ -2,7 +2,7 @@
 # date: 02/13/21
 # purpose: create solar driver
 
-from body import Body
+from bodyextra import Body
 from systemextra import System
 from cs1lib import *
 from math import *
