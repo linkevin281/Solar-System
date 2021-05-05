@@ -1,3 +1,6 @@
+# Created by the CS department faculty members at Dartmouth
+# Created for the CS1 course
+
 from math import pi
 import sys, os.path
 from PyQt5.QtCore import *
